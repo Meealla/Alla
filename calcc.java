@@ -16,7 +16,7 @@ public class calcc {
             int num1;
             int num2;
             try {
-                num1 = convertToNumber(array[0]); /
+                num1 = convertToNumber(array[0]); 
                 num2 = convertToNumber(array[2]);
 
 
